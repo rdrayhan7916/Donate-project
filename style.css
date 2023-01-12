@@ -1,0 +1,80 @@
+body{
+    margin: 0px;
+    margin-top: 0px;
+}
+.header-part{
+    background-image: url(images/donation12.png);
+    height: 100%;
+    background-size: cover;
+}
+#header-text{
+    padding-top: 200px;
+    text-align: center;
+    font-size: 50px;
+    color: orangered;
+    font-weight: 700;
+}
+#p1{
+    width: 50%;
+    margin: auto;
+    font-size: 20px;
+    color: antiquewhite;
+    padding-bottom: 100px;
+}
+#bt1{
+    margin-left: 170px !important;
+    margin-top: 20px !important;
+    background-color: #FF5959;
+    margin: auto;
+    text-align: center !important;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+a{
+
+    text-decoration: none;
+    color: white;
+}
+
+.today{
+    text-align: center;
+}
+.t-text{
+    font-size: 60px;
+}
+.p-t{
+    margin-top: 10px !important;
+    color: rgb(133, 129, 129);
+    width: 50%;
+    margin: auto;
+    font-size: 20px;
+}
+.tk{
+    font-size: 50px;
+    color: rgb(133, 127, 127);
+    margin: 20px;
+    padding: 20px;
+}
+.tk:hover{
+    background-color: #b69f9f;
+    padding: 20px;
+    border: 1px solid #FF5959;
+    border-radius: 3px;
+}
+.tk-s{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+#bt2{
+    margin-left: 120px !important;
+    margin-top: 20px !important;
+    background-color: #FF5959;
+    margin: auto;
+    text-align: center !important;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
